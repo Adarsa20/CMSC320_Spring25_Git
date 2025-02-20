@@ -9,3 +9,7 @@ Answer: Healthcare, to analyze and visualize experiment results.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines and rebasing rewrites.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Looking forward to enjoying my final semseter and graduating!
