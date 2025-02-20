@@ -6,4 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare, to analyze and visualize experiment results.
 
+Q3: What is the difference between Merging and Rebasing?
 
+Answer: Merging combines and rebasing rewrites.
